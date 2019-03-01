@@ -11,6 +11,7 @@
   - [Freddy](#freddy)
   - [Himotoki](#himotoki)
   - [Wrap](#wrap)
+  - [swift-json](#swift-json)
 
 ## JSON Parse
 
@@ -18,3 +19,4 @@
 * [Freddy](https://github.com/bignerdranch/Freddy) - A reusable framework for parsing JSON in Swift.
 * [Himotoki](https://github.com/ikesyo/Himotoki) - A type-safe JSON decoding library purely written in Swift
 * [Wrap](https://github.com/JohnSundell/Wrap) - The easy to use Swift JSON encoder
+* [swift-json](https://github.com/dankogai/swift-json) - Even Swiftier JSON Handler
