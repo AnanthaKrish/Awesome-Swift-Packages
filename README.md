@@ -12,6 +12,8 @@
   - [Himotoki](#himotoki)
   - [Wrap](#wrap)
   - [swift-json](#swift-json)
+  - [Unbox](#unbox)
+  - [Gloss](#gloss)
 
 ## JSON Parse
 
@@ -20,3 +22,5 @@
 * [Himotoki](https://github.com/ikesyo/Himotoki) - A type-safe JSON decoding library purely written in Swift
 * [Wrap](https://github.com/JohnSundell/Wrap) - The easy to use Swift JSON encoder
 * [swift-json](https://github.com/dankogai/swift-json) - Even Swiftier JSON Handler
+* [Unbox](https://github.com/JohnSundell/Unbox) - The easy to use Swift JSON decoder
+* [Gloss](https://github.com/hkellaway/Gloss) - A shiny JSON parsing library in Swift
