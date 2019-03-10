@@ -25,7 +25,7 @@
   - [Tron](#network)
   - [Restofire](#network)
   - [Lightning](#network)
-  - [](#network)
+  - [HTTP](#network)
   - [](#network)
   
 
@@ -51,7 +51,7 @@
 * [Tron](https://github.com/MLSDev/TRON) - Lightweight network abstraction layer, written on top of Alamofire
 * [Restofire](https://github.com/Restofire/Restofire) - Restofire is a protocol oriented networking client for Alamofire https://restofire.github.io/Restofire/
 * [Lightning](https://github.com/skylab-inc/Lightning) - A Swift Multiplatform Single-threaded Non-blocking Web and Networking Framework
-* []() - 
+* [HTTP](https://github.com/vapor/http) - 🚀 Non-blocking, event-driven HTTP built on Swift NIO.
 * []() - 
 * []() - 
 * []() - 
