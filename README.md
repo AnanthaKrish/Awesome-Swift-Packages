@@ -36,7 +36,7 @@
 - [Server](#server)
   - [Vapor](#server)
   - [Perfect](#server)
-  - [](#server)
+  - [Kitura](#server)
   - [](#server)
   - [](#server)
   - [](#server)
@@ -73,7 +73,7 @@
 
 * [Vapor](https://github.com/vapor/vapor) - A server-side Swift web framework. https://vapor.codes.
 * [Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect core toolset and framework for Swift Developers. 
-* []() - 
+* [Kitura](https://github.com/IBM-Swift/Kitura) - A Swift web framework and HTTP server. http://www.kitura.io
 * []() - .
 * []() - .
 * []() - .
