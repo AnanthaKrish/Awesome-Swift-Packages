@@ -32,7 +32,7 @@
   - [Kitura-net](#network)
   - [Prorsum](#network)
   - [Avenue](#network)
-  - [Avenue](#network)
+  - [SwiftyRequest](#network)
 
 ## JSON Parse
 
@@ -62,4 +62,5 @@
 * [Kitura-net](https://github.com/IBM-Swift/Kitura-net) - Kitura networking
 * [Prorsum](https://github.com/noppoMan/Prorsum) - A Go like concurrent system + networking/http library for Swift that works on Linux and Mac
 * [Avenue](https://github.com/radianttap/Avenue) - Simple wrapper around URLSession boilerplate for any network / API client you need to write in Swift, based on Operation / OperationQueue
+* [SwiftyRequest](https://github.com/IBM-Swift/SwiftyRequest) - SwiftyRequest is an HTTP networking library built for Swift.
 
