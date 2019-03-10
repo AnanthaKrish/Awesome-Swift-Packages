@@ -40,6 +40,8 @@
   - [Swift-Nio](#server)
   - [Swifter](#server)
   - [Zewo](#server)
+  - [Curassow](#server)
+  - [Embassy](#server)
 
 ## JSON Parse
 
@@ -77,6 +79,6 @@
 * [Swift-Nio](https://github.com/apple/swift-nio) - Event-driven network application framework for high performance protocol servers & clients, non-blocking.
 * [Swifter](https://github.com/httpswift/swifter) - Tiny http server engine written in Swift programming language..
 * [Zewo](https://github.com/Zewo/Zewo) - Lightweight library for web server applications in Swift on macOS and Linux powered by coroutines. http://zewo.io .
-* []() - .
-
+* [Curassow](https://github.com/kylef-archive/Curassow) - Swift HTTP server using the pre-fork worker model https://curassow.fuller.li/
+* [Embassy](https://github.com/envoy/Embassy) - Super lightweight async HTTP server library in pure Swift runs in iOS / MacOS / Linux.
 
