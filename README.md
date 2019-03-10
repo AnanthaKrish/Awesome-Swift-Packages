@@ -37,7 +37,7 @@
   - [Vapor](#server)
   - [Perfect](#server)
   - [Kitura](#server)
-  - [](#server)
+  - [Swift-Nio](#server)
   - [](#server)
   - [](#server)
 
@@ -74,7 +74,7 @@
 * [Vapor](https://github.com/vapor/vapor) - A server-side Swift web framework. https://vapor.codes.
 * [Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect core toolset and framework for Swift Developers. 
 * [Kitura](https://github.com/IBM-Swift/Kitura) - A Swift web framework and HTTP server. http://www.kitura.io
-* []() - .
+* [Swift-Nio](https://github.com/apple/swift-nio) - Event-driven network application framework for high performance protocol servers & clients, non-blocking.
 * []() - .
 * []() - .
 * []() - .
