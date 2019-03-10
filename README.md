@@ -30,7 +30,7 @@
 
   - [Frisbee](#network)
   - [Kitura-net](#network)
-  - [NetClient-iOS](#network)
+  - [Prorsum](#network)
   
   
 
@@ -60,6 +60,6 @@
 * [NetClient-iOS](https://github.com/intelygenz/NetClient-iOS) - Versatile HTTP Networking in Swift https://intelygenz.github.io/NetClient-iOS/
 * [Frisbee](https://github.com/ronanrodrigo/Frisbee) - Another network wrapper for URLSession. Built to be simple, small and easy to create tests at the network layer of your application.
 * [Kitura-net](https://github.com/IBM-Swift/Kitura-net) - Kitura networking
-* []() - 
+* [Prorsum](https://github.com/noppoMan/Prorsum) - A Go like concurrent system + networking/http library for Swift that works on Linux and Mac
 * []() - 
 
