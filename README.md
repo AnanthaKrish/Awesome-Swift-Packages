@@ -73,6 +73,8 @@
 * [Avenue](https://github.com/radianttap/Avenue) - Simple wrapper around URLSession boilerplate for any network / API client you need to write in Swift, based on Operation / OperationQueue
 * [SwiftyRequest](https://github.com/IBM-Swift/SwiftyRequest) - SwiftyRequest is an HTTP networking library built for Swift.
 
+## Server
+
 * [Vapor](https://github.com/vapor/vapor) - A server-side Swift web framework. https://vapor.codes.
 * [Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect core toolset and framework for Swift Developers. 
 * [Kitura](https://github.com/IBM-Swift/Kitura) - A Swift web framework and HTTP server. http://www.kitura.io
