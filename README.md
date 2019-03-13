@@ -53,6 +53,8 @@
   - [Loggerithm](#logger)
   - [StarConsoleLink](#logger)
   - [Atlantis](#logger)
+  - [HeliumLogger](#logger)
+  - [](#logger)
   - [](#logger)
 
 
@@ -109,7 +111,7 @@
 * [Loggerithm](https://github.com/honghaoz/Loggerithm) - A lightweight Swift logger, uses `print` in development and `NSLog` in production. Support colourful and formatted output..
 * [StarConsoleLink](https://github.com/iStarEternal/StarConsoleLink) - StarConsoleLink inject the link to your Xcode console, which allows you to click on the link area rapid positioning to the log line..
 * [Atlantis](https://github.com/DrewKiino/Atlantis) - A powerful input-agnostic swift logging framework made to speed up development with maximum readability.
-* []() - .
+* [HeliumLogger](https://github.com/IBM-Swift/HeliumLogger) - A lightweight logging framework for Swift.
 * []() - .
 * []() - .
 * []() - .
