@@ -43,6 +43,10 @@
   - [Curassow](#server)
   - [Embassy](#server)
 
+- [Logger](#logger)
+  - [SwiftyBeaver](#logger)
+
+
 ## JSON Parse
 
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - SwiftyJSON makes it easy to deal with JSON data in Swift.
@@ -84,3 +88,7 @@
 * [Curassow](https://github.com/kylef-archive/Curassow) - Swift HTTP server using the pre-fork worker model https://curassow.fuller.li/
 * [Embassy](https://github.com/envoy/Embassy) - Super lightweight async HTTP server library in pure Swift runs in iOS / MacOS / Linux.
 
+
+## Logger
+
+* [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development & release in Swift 2, 3 & 4 .
