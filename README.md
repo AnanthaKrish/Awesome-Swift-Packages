@@ -56,7 +56,7 @@
   - [HeliumLogger](#logger)
   - [SpeedLog](#logger)
   - [SwiftyBeaver-Vapor](#logger)
-  - [](#logger)
+  - [Evergreen](#logger)
   - [](#logger)
 
 
@@ -116,5 +116,5 @@
 * [HeliumLogger](https://github.com/IBM-Swift/HeliumLogger) - A lightweight logging framework for Swift.
 * [SpeedLog](https://github.com/kostiakoval/SpeedLog) - Fast Swift debug logs.
 * [SwiftyBeaver-Vapor](https://github.com/SwiftyBeaver/SwiftyBeaver-Vapor) - SwiftyBeaver Logging Provider for Vapor, the server-side Swift web framework https://swiftybeaver.com.
-* []() - .
+* [Evergreen](https://github.com/nilsleiffischer/Evergreen) - Most natural Swift logging.
 * []() - .
