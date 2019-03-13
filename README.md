@@ -122,4 +122,3 @@
 * [SwiftLog](https://github.com/daltoniam/SwiftLog) - Simple and easy logging in Swift.
 * [Bulk](https://github.com/muukii/Bulk) - 👨‍💻 Bulk is pipeline based powerful & flexible logging framework.
 * [Lighty](https://github.com/abdullahselek/Lighty) - Easy to use and lightweight logger for iOS, macOS, tvOS, watchOS and Linux in Swift.
-* []() - .
