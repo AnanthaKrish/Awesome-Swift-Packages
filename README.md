@@ -50,7 +50,7 @@
   - [Willow](#logger)
   - [Splash](#logger)
   - [QorumLogs](#logger)
-  - [](#logger)
+  - [Loggerithm](#logger)
   - [](#logger)
   - [](#logger)
   - [](#logger)
@@ -106,7 +106,7 @@
 * [Willow](https://github.com/Nike-Inc/Willow) - Willow is a powerful, yet lightweight logging library written in Swift..
 * [Splash](https://github.com/JohnSundell/Splash) - A fast, lightweight and flexible Swift syntax highlighter for blogs, tools and fun.
 * [QorumLogs](https://github.com/goktugyil/QorumLogs) - 📕 Swift Logging Utility for Xcode & Google Docs.
-* []() - .
+* [Loggerithm](https://github.com/honghaoz/Loggerithm) - A lightweight Swift logger, uses `print` in development and `NSLog` in production. Support colourful and formatted output..
 * []() - .
 * []() - .
 * []() - .
