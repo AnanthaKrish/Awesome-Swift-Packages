@@ -55,6 +55,8 @@
   - [Atlantis](#logger)
   - [HeliumLogger](#logger)
   - [SpeedLog](#logger)
+  - [SwiftyBeaver-Vapor](#logger)
+  - [](#logger)
   - [](#logger)
 
 
@@ -113,6 +115,6 @@
 * [Atlantis](https://github.com/DrewKiino/Atlantis) - A powerful input-agnostic swift logging framework made to speed up development with maximum readability.
 * [HeliumLogger](https://github.com/IBM-Swift/HeliumLogger) - A lightweight logging framework for Swift.
 * [SpeedLog](https://github.com/kostiakoval/SpeedLog) - Fast Swift debug logs.
-* []() - .
+* [SwiftyBeaver-Vapor](https://github.com/SwiftyBeaver/SwiftyBeaver-Vapor) - SwiftyBeaver Logging Provider for Vapor, the server-side Swift web framework https://swiftybeaver.com.
 * []() - .
 * []() - .
