@@ -47,7 +47,7 @@
   - [SwiftyBeaver](#logger)
   - [XCGLogger](#logger)
   - [CleanroomLogger](#logger)
-  - [](#logger)
+  - [Willow](#logger)
   - [](#logger)
   - [](#logger)
   - [](#logger)
@@ -103,7 +103,7 @@
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development & release in Swift 2, 3 & 4 .
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects.
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - CleanroomLogger provides an extensible Swift-based logging API that is simple, lightweight and performant.
-* []() - .
+* [Willow](https://github.com/Nike-Inc/Willow) - Willow is a powerful, yet lightweight logging library written in Swift..
 * []() - .
 * []() - .
 * []() - .
