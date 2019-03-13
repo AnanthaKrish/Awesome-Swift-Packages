@@ -49,7 +49,7 @@
   - [CleanroomLogger](#logger)
   - [Willow](#logger)
   - [Splash](#logger)
-  - [](#logger)
+  - [QorumLogs](#logger)
   - [](#logger)
   - [](#logger)
   - [](#logger)
@@ -105,7 +105,7 @@
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - CleanroomLogger provides an extensible Swift-based logging API that is simple, lightweight and performant.
 * [Willow](https://github.com/Nike-Inc/Willow) - Willow is a powerful, yet lightweight logging library written in Swift..
 * [Splash](https://github.com/JohnSundell/Splash) - A fast, lightweight and flexible Swift syntax highlighter for blogs, tools and fun.
-* []() - .
+* [QorumLogs](https://github.com/goktugyil/QorumLogs) - 📕 Swift Logging Utility for Xcode & Google Docs.
 * []() - .
 * []() - .
 * []() - .
