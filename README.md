@@ -51,7 +51,7 @@
   - [Splash](#logger)
   - [QorumLogs](#logger)
   - [Loggerithm](#logger)
-  - [](#logger)
+  - [StarConsoleLink](#logger)
   - [](#logger)
   - [](#logger)
 
@@ -107,7 +107,7 @@
 * [Splash](https://github.com/JohnSundell/Splash) - A fast, lightweight and flexible Swift syntax highlighter for blogs, tools and fun.
 * [QorumLogs](https://github.com/goktugyil/QorumLogs) - 📕 Swift Logging Utility for Xcode & Google Docs.
 * [Loggerithm](https://github.com/honghaoz/Loggerithm) - A lightweight Swift logger, uses `print` in development and `NSLog` in production. Support colourful and formatted output..
-* []() - .
+* [StarConsoleLink](https://github.com/iStarEternal/StarConsoleLink) - StarConsoleLink inject the link to your Xcode console, which allows you to click on the link area rapid positioning to the log line..
 * []() - .
 * []() - .
 * []() - .
