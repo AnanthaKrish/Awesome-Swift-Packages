@@ -45,6 +45,15 @@
 
 - [Logger](#logger)
   - [SwiftyBeaver](#logger)
+  - [XCGLogger](#logger)
+  - [](#logger)
+  - [](#logger)
+  - [](#logger)
+  - [](#logger)
+  - [](#logger)
+  - [](#logger)
+  - [](#logger)
+  - [](#logger)
 
 
 ## JSON Parse
@@ -92,3 +101,16 @@
 ## Logger
 
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development & release in Swift 2, 3 & 4 .
+* [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects.
+* []() - .
+* []() - .
+* []() - .
+* []() - .
+* []() - .
+* []() - .
+* []() - .
+* []() - .
+* []() - .
+* []() - .
+* []() - .
+* []() - .
