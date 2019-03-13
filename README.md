@@ -57,6 +57,8 @@
   - [SpeedLog](#logger)
   - [SwiftyBeaver-Vapor](#logger)
   - [Evergreen](#logger)
+  - [SwiftLog](#logger)
+  - [](#logger)
   - [](#logger)
 
 
@@ -117,4 +119,7 @@
 * [SpeedLog](https://github.com/kostiakoval/SpeedLog) - Fast Swift debug logs.
 * [SwiftyBeaver-Vapor](https://github.com/SwiftyBeaver/SwiftyBeaver-Vapor) - SwiftyBeaver Logging Provider for Vapor, the server-side Swift web framework https://swiftybeaver.com.
 * [Evergreen](https://github.com/nilsleiffischer/Evergreen) - Most natural Swift logging.
+* [SwiftLog](https://github.com/daltoniam/SwiftLog) - Simple and easy logging in Swift.
+* []() - .
+* []() - .
 * []() - .
