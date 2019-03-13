@@ -54,7 +54,7 @@
   - [StarConsoleLink](#logger)
   - [Atlantis](#logger)
   - [HeliumLogger](#logger)
-  - [](#logger)
+  - [SpeedLog](#logger)
   - [](#logger)
 
 
@@ -112,7 +112,7 @@
 * [StarConsoleLink](https://github.com/iStarEternal/StarConsoleLink) - StarConsoleLink inject the link to your Xcode console, which allows you to click on the link area rapid positioning to the log line..
 * [Atlantis](https://github.com/DrewKiino/Atlantis) - A powerful input-agnostic swift logging framework made to speed up development with maximum readability.
 * [HeliumLogger](https://github.com/IBM-Swift/HeliumLogger) - A lightweight logging framework for Swift.
-* []() - .
+* [SpeedLog](https://github.com/kostiakoval/SpeedLog) - Fast Swift debug logs.
 * []() - .
 * []() - .
 * []() - .
