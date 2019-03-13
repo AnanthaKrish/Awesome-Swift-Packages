@@ -58,7 +58,7 @@
   - [SwiftyBeaver-Vapor](#logger)
   - [Evergreen](#logger)
   - [SwiftLog](#logger)
-  - [](#logger)
+  - [Bulk](#logger)
   - [](#logger)
 
 
@@ -120,6 +120,6 @@
 * [SwiftyBeaver-Vapor](https://github.com/SwiftyBeaver/SwiftyBeaver-Vapor) - SwiftyBeaver Logging Provider for Vapor, the server-side Swift web framework https://swiftybeaver.com.
 * [Evergreen](https://github.com/nilsleiffischer/Evergreen) - Most natural Swift logging.
 * [SwiftLog](https://github.com/daltoniam/SwiftLog) - Simple and easy logging in Swift.
-* []() - .
+* [Bulk](https://github.com/muukii/Bulk) - 👨‍💻 Bulk is pipeline based powerful & flexible logging framework.
 * []() - .
 * []() - .
