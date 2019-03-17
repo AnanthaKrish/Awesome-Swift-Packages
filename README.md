@@ -79,8 +79,8 @@
   - [AuthyStore](#authentication)
 
 - [Storage](#storage)
-  - [](#storage)
-  - [](#storage)
+  - [Threadly](#storage)
+  - [Storage](#storage)
   - [](#storage)
   - [](#storage)
   - [](#storage)
@@ -172,8 +172,8 @@
 
 ## Storage
 
-* []() - .
-* []() - .
+* [Threadly](https://github.com/nvzqz/Threadly) - Type-safe thread-local storage in Swift https://nvzqz.github.io/Threadly/docs/.
+* [Storage](https://github.com/nodes-vapor/storage) - Eases the use of multiple storage and CDN services 🗄.
 * []() - .
 * []() - .
 * []() - .
