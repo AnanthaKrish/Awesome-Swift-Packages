@@ -66,7 +66,7 @@
   - [google-auth-library-swift](#authentication)
   - [Turnstile](#authentication)
   - [auth](#authentication)
-  - [](#authentication)
+  - [vapor-oauth](#authentication)
   - [](#authentication)
   - [](#authentication)
   - [](#authentication)
@@ -140,7 +140,7 @@
 * [google-auth-library-swift](https://github.com/googleapis/google-auth-library-swift) - Auth client library for Swift command-line tools and cloud services. Supports OAuth1, OAuth2, and Google Application Default Credentials.
 * [Turnstile](https://github.com/stormpath/Turnstile) - An authentication framework for Swift.
 * [auth](https://github.com/vapor/auth) -  Authentication and Authorization framework for Fluent.
-* []() - .
+* [vapor-oauth](https://github.com/brokenhandsio/vapor-oauth) - OAuth2 Provider Library for Vapor.
 * []() - .
 * []() - .
 * []() - .
