@@ -92,8 +92,8 @@
   - [swift-OctopusBox](#storage)
   - [GoogleCloudStorage](#storage)
   - [media-manager](#storage)
-  - [](#storage)
-  - [](#storage)
+  - [vscode-storage-cleaner](#storage)
+  - [Json-Data-Storage](#storage)
 
 
 
@@ -191,6 +191,5 @@
 * [swift-OctopusBox](https://github.com/my-mail-ru/swift-OctopusBox) - Client for Octopus/box in-memory key/value storage.
 * [GoogleCloudStorage](https://github.com/skelpo/GoogleCloudStorage) - A skelpo/Storage implementation for Google Cloud Storage.
 * [media-manager](https://github.com/skelpo/media-manager) - A Vapor micro-service for resource storage.
-* []() - .
-* []() - .
-* []() - .
+* [vscode-storage-cleaner](https://github.com/Zehua-Chen/vscode-storage-cleaner) - VS Code Storage Manager.
+* [Json-Data-Storage](https://github.com/LukasM01/Json-Data-Storage) - A simple Swift data storage which uses JSON for serialization.
