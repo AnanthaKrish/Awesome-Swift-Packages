@@ -90,7 +90,7 @@
   - [UserCaches](#storage)
   - [S3Storage](#storage)
   - [swift-OctopusBox](#storage)
-  - [](#storage)
+  - [GoogleCloudStorage](#storage)
   - [](#storage)
   - [](#storage)
   - [](#storage)
@@ -189,7 +189,7 @@
 * [UserCaches](https://github.com/CUITCHE/UserCaches) - A key-value storage cache tool on iOS Platform. Like UserDefaults.
 * [S3Storage](https://github.com/skelpo/S3Storage) - A skelpo/Storage implementation for Amazon S3.
 * [swift-OctopusBox](https://github.com/my-mail-ru/swift-OctopusBox) - Client for Octopus/box in-memory key/value storage.
-* []() - .
+* [GoogleCloudStorage](https://github.com/skelpo/GoogleCloudStorage) - A skelpo/Storage implementation for Google Cloud Storage.
 * []() - .
 * []() - .
 * []() - .
