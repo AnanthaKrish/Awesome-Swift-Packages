@@ -71,7 +71,7 @@
   - [S3SignerAWS](#authentication)
   - [JWTMiddleware](#authentication)
   - [OhhAuth](#authentication)
-  - [](#authentication)
+  - [Kitura-CredentialsHTTP](#authentication)
   - [](#authentication)
   - [](#authentication)
   - [](#authentication)
@@ -149,6 +149,6 @@
 * [S3SignerAWS](https://github.com/JustinM1/S3SignerAWS) - Pure Swift AWS S3 Signer, generates V4 Auth Headers and V4 presignedURLs.
 * [JWTMiddleware](https://github.com/skelpo/JWTMiddleware) - Middleware to Authenticate and Authorize Requests in Vapor.
 * [OhhAuth](https://github.com/mw99/OhhAuth) - Pure Swift implementation of the OAuth 1.0 protocol as an easy to use extension for the URLRequest type. (RFC-5849).
-* []() - .
+* [Kitura-CredentialsHTTP](https://github.com/IBM-Swift/Kitura-CredentialsHTTP) - A plugin for the Kitura-Credentials framework that authenticates using HTTP Basic and Digest authentication.
 * []() - .
 * []() - .
