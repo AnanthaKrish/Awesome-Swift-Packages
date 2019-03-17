@@ -74,7 +74,7 @@
   - [Kitura-CredentialsHTTP](#authentication)
   - [Perfect-Authentication](#authentication)
   - [Kitura-CredentialsFacebook](#authentication)
-  - [](#authentication)
+  - [JWTAuthExample](#authentication)
   - [](#authentication)
   - [](#authentication)
 
@@ -154,6 +154,6 @@
 * [Kitura-CredentialsHTTP](https://github.com/IBM-Swift/Kitura-CredentialsHTTP) - A plugin for the Kitura-Credentials framework that authenticates using HTTP Basic and Digest authentication.
 * [Perfect-Authentication](https://github.com/PerfectlySoft/Perfect-Authentication) - OAuth2 Implementations with Facebook, Google, LinkedIn, Slack, SalesForce and GitHub providers.
 * [Kitura-CredentialsFacebook](https://github.com/IBM-Swift/Kitura-CredentialsFacebook) - A plugin for the Kitura-Credentials framework that authenticates using the Facebook web login.
-* []() - .
+* [JWTAuthExample](https://github.com/skelpo/JWTAuthExample) - An example on how to authorize JWT in a micro-service.
 * []() - .
 * []() - .
