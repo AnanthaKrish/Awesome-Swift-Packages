@@ -78,6 +78,18 @@
   - [Kitura-CredentialsGoogle](#authentication)
   - [AuthyStore](#authentication)
 
+- [Storage](#storage)
+  - [](#storage)
+  - [](#storage)
+  - [](#storage)
+  - [](#storage)
+  - [](#storage)
+  - [](#storage)
+  - [](#storage)
+  - [](#storage)
+  - [](#storage)
+
+
 
 ## JSON Parse
 
@@ -157,3 +169,17 @@
 * [JWTAuthExample](https://github.com/skelpo/JWTAuthExample) - An example on how to authorize JWT in a micro-service.
 * [Kitura-CredentialsGoogle](https://github.com/IBM-Swift/Kitura-CredentialsGoogle) - A plugin for the Kitura-Credentials framework that authenticates using the Google web login.
 * [AuthyStore](https://github.com/rchatham/AuthyStore) - Two factor authentication with authy.
+
+## Storage
+
+* []() - .
+* []() - .
+* []() - .
+* []() - .
+* []() - .
+* []() - .
+* []() - .
+* []() - .
+* []() - .
+* []() - .
+* []() - .
