@@ -91,7 +91,7 @@
   - [S3Storage](#storage)
   - [swift-OctopusBox](#storage)
   - [GoogleCloudStorage](#storage)
-  - [](#storage)
+  - [media-manager](#storage)
   - [](#storage)
   - [](#storage)
 
@@ -190,7 +190,7 @@
 * [S3Storage](https://github.com/skelpo/S3Storage) - A skelpo/Storage implementation for Amazon S3.
 * [swift-OctopusBox](https://github.com/my-mail-ru/swift-OctopusBox) - Client for Octopus/box in-memory key/value storage.
 * [GoogleCloudStorage](https://github.com/skelpo/GoogleCloudStorage) - A skelpo/Storage implementation for Google Cloud Storage.
-* []() - .
+* [media-manager](https://github.com/skelpo/media-manager) - A Vapor micro-service for resource storage.
 * []() - .
 * []() - .
 * []() - .
