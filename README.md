@@ -69,7 +69,7 @@
   - [vapor-oauth](#authentication)
   - [Turnstile-Perfect](#authentication)
   - [S3SignerAWS](#authentication)
-  - [](#authentication)
+  - [JWTMiddleware](#authentication)
   - [](#authentication)
 
 
@@ -143,7 +143,7 @@
 * [vapor-oauth](https://github.com/brokenhandsio/vapor-oauth) - OAuth2 Provider Library for Vapor.
 * [Turnstile-Perfect](https://github.com/stormpath/Turnstile-Perfect) - Authentication for the Perfect Web Framework using Turnstile.
 * [S3SignerAWS](https://github.com/JustinM1/S3SignerAWS) - Pure Swift AWS S3 Signer, generates V4 Auth Headers and V4 presignedURLs.
-* []() - .
+* [JWTMiddleware](https://github.com/skelpo/JWTMiddleware) - Middleware to Authenticate and Authorize Requests in Vapor.
 * []() - .
 * []() - .
 * []() - .
