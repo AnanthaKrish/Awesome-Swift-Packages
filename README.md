@@ -72,7 +72,7 @@
   - [JWTMiddleware](#authentication)
   - [OhhAuth](#authentication)
   - [Kitura-CredentialsHTTP](#authentication)
-  - [](#authentication)
+  - [Perfect-Authentication](#authentication)
   - [](#authentication)
   - [](#authentication)
 
@@ -150,5 +150,5 @@
 * [JWTMiddleware](https://github.com/skelpo/JWTMiddleware) - Middleware to Authenticate and Authorize Requests in Vapor.
 * [OhhAuth](https://github.com/mw99/OhhAuth) - Pure Swift implementation of the OAuth 1.0 protocol as an easy to use extension for the URLRequest type. (RFC-5849).
 * [Kitura-CredentialsHTTP](https://github.com/IBM-Swift/Kitura-CredentialsHTTP) - A plugin for the Kitura-Credentials framework that authenticates using HTTP Basic and Digest authentication.
-* []() - .
+* [Perfect-Authentication](https://github.com/PerfectlySoft/Perfect-Authentication) - OAuth2 Implementations with Facebook, Google, LinkedIn, Slack, SalesForce and GitHub providers.
 * []() - .
