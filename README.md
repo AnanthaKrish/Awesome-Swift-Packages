@@ -82,7 +82,7 @@
   - [Threadly](#storage)
   - [Storage](#storage)
   - [StorageManager](#storage)
-  - [](#storage)
+  - [SwiftSQL](#storage)
   - [](#storage)
   - [](#storage)
   - [](#storage)
@@ -175,7 +175,7 @@
 * [Threadly](https://github.com/nvzqz/Threadly) - Type-safe thread-local storage in Swift https://nvzqz.github.io/Threadly/docs/.
 * [Storage](https://github.com/nodes-vapor/storage) - Eases the use of multiple storage and CDN services 🗄.
 * [StorageManager](https://github.com/iAmrSalman/StorageManager) - Safe and easy way to use FileManager as Database.
-* []() - .
+* [SwiftSQL](https://github.com/rymcol/SwiftSQL) - Library of helpers to convert between SQL style syntax/storage strings and Swift Types.
 * []() - .
 * []() - .
 * []() - .
