@@ -76,7 +76,7 @@
   - [Kitura-CredentialsFacebook](#authentication)
   - [JWTAuthExample](#authentication)
   - [Kitura-CredentialsGoogle](#authentication)
-  - [](#authentication)
+  - [AuthyStore](#authentication)
 
 
 ## JSON Parse
@@ -156,4 +156,4 @@
 * [Kitura-CredentialsFacebook](https://github.com/IBM-Swift/Kitura-CredentialsFacebook) - A plugin for the Kitura-Credentials framework that authenticates using the Facebook web login.
 * [JWTAuthExample](https://github.com/skelpo/JWTAuthExample) - An example on how to authorize JWT in a micro-service.
 * [Kitura-CredentialsGoogle](https://github.com/IBM-Swift/Kitura-CredentialsGoogle) - A plugin for the Kitura-Credentials framework that authenticates using the Google web login.
-* []() - .
+* [AuthyStore](https://github.com/rchatham/AuthyStore) - Two factor authentication with authy.
