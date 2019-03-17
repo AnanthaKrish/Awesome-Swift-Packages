@@ -86,7 +86,7 @@
   - [TStorage](#storage)
   - [Local-storage](#storage)
   - [Storage](#storage)
-  - [](#storage)
+  - [storage-kit](#storage)
   - [](#storage)
 
 
@@ -179,7 +179,7 @@
 * [TStorage](https://github.com/TofPlay/TStorage) - Micro-framework to manage and store your data with Sqlite.
 * [Local-storage](https://github.com/gperdomor/local-storage) - Storage driver using Local filesystem for Vapor 3.
 * [Storage](https://github.com/skelpo/Storage) - An interface for storing files with any API.
-* []() - .
+* [storage-kit](https://github.com/gperdomor/storage-kit) - Core services for creating storage providers integrations.
 * []() - .
 * []() - .
 * []() - .
