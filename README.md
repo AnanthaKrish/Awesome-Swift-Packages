@@ -68,7 +68,7 @@
   - [auth](#authentication)
   - [vapor-oauth](#authentication)
   - [Turnstile-Perfect](#authentication)
-  - [](#authentication)
+  - [S3SignerAWS](#authentication)
   - [](#authentication)
   - [](#authentication)
 
@@ -142,7 +142,7 @@
 * [auth](https://github.com/vapor/auth) -  Authentication and Authorization framework for Fluent.
 * [vapor-oauth](https://github.com/brokenhandsio/vapor-oauth) - OAuth2 Provider Library for Vapor.
 * [Turnstile-Perfect](https://github.com/stormpath/Turnstile-Perfect) - Authentication for the Perfect Web Framework using Turnstile.
-* []() - .
+* [S3SignerAWS](https://github.com/JustinM1/S3SignerAWS) - Pure Swift AWS S3 Signer, generates V4 Auth Headers and V4 presignedURLs.
 * []() - .
 * []() - .
 * []() - .
