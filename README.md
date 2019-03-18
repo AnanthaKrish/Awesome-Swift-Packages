@@ -97,7 +97,7 @@
 
 - [Tutorials](#tutorials)
   - [Kitura Tutorial](#tutorials)
-  - [](#tutorials)
+  - [TCP Server with SwiftNIO Networking](#tutorials)
   - [](#tutorials)
   - [](#tutorials)
   - [](#tutorials)
@@ -205,7 +205,7 @@
 ## Tutorials
 
 * [Kitura Tutorial](https://www.raywenderlich.com/1079484-kitura-tutorial-getting-started-with-server-side-swift) - Kitura Tutorial: Getting Started With Server-Side Swift.
-* []() - .
+* [TCP Server with SwiftNIO Networking](https://www.raywenderlich.com/76-tcp-server-with-the-swiftnio-networking-framework) - TCP Server With the SwiftNIO Networking Framework.
 * []() - .
 * []() - .
 * []() - .
