@@ -107,6 +107,9 @@
   - [ImageLibraryDemo](#samples)
   - [Perfect-Weather](#samples)
   - [Perfect-Blog-Mustache](#samples)
+  - [Perfect-Authentication-Demo](#samples)
+  - [Perfect-CURL-Example](#samples)
+  - [](#samples)
   - [](#samples)
   - [](#samples)
 
@@ -222,5 +225,9 @@
 * [ImageLibraryDemo](https://github.com/PerfectExamples/ImageLibraryDemo) - This example demonsrates the use of a simple API backend to deliver an image gallery listing to a ReactJS web front end, as well as an iOS application.
 * [Perfect-Weather](https://github.com/PerfectExamples/Perfect-Weather) - Demonstrate using URL Routes & variables, Fetching of remote data from API's as JSON, reading and transforming to data more appropriately consumable by an API client.
 * [Perfect-Blog-Mustache](https://github.com/PerfectExamples/Perfect-Blog-Mustache) - An Example Blog & Mustache Template System for Perfect.
+* [Perfect-Authentication-Demo](https://github.com/PerfectExamples/Perfect-Authentication-Demo) - OAuth2 Demo.
+* [Perfect-CURL-Example](https://github.com/PerfectExamples/Perfect-CURL-Example) - Examples using CURL to request data using Perfect.
+* []() - .
+* []() - .
 * []() - .
 * []() - .
