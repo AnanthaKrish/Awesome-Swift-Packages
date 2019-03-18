@@ -111,7 +111,7 @@
   - [Perfect-CURL-Example](#samples)
   - [Vapor Example](#samples)
   - [vapor todo-example](#samples)
-  - [](#samples)
+  - [Kitura-Sample](#samples)
 
 
 ## JSON Parse
@@ -229,5 +229,5 @@
 * [Perfect-CURL-Example](https://github.com/PerfectExamples/Perfect-CURL-Example) - Examples using CURL to request data using Perfect.
 * [Vapor Example](https://github.com/vapor-community/example) - Starting point for using the Vapor framework..
 * [vapor todo-example](https://github.com/vapor-community/todo-example) - An example implementation for http://todobackend.com https://vapor-todo.herokuapp.com.
-* []() - .
+* [Kitura-Sample](https://github.com/IBM-Swift/Kitura-Sample) - A sample application that shows how to use various features of Kitura.
 * []() - .
