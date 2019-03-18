@@ -105,7 +105,7 @@
   - [Perfect-Turnstile-MySQL-Demo](#samples)
   - [Perfect-Turnstile-PostgreSQL-Demo](#samples)
   - [ImageLibraryDemo](#samples)
-  - [](#samples)
+  - [Perfect-Weather](#samples)
   - [](#samples)
   - [](#samples)
   - [](#samples)
@@ -220,7 +220,7 @@
 * [Perfect-Turnstile-MySQL-Demo](https://github.com/PerfectExamples/Perfect-Turnstile-MySQL-Demo) - This project demonstrates the integration Stormpath's Turnstile authentication system with Perfect and a MySQL ORM..
 * [Perfect-Turnstile-PostgreSQL-Demo](https://github.com/PerfectExamples/Perfect-Turnstile-PostgreSQL-Demo) - This project demonstrates the integration Stormpath's Turnstile authentication system with Perfect and a PostgreSQL ORM..
 * [ImageLibraryDemo](https://github.com/PerfectExamples/ImageLibraryDemo) - This example demonsrates the use of a simple API backend to deliver an image gallery listing to a ReactJS web front end, as well as an iOS application.
-* []() - .
+* [Perfect-Weather](https://github.com/PerfectExamples/Perfect-Weather) - Demonstrate using URL Routes & variables, Fetching of remote data from API's as JSON, reading and transforming to data more appropriately consumable by an API client.
 * []() - .
 * []() - .
 * []() - .
