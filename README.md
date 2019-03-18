@@ -246,3 +246,4 @@
 ## Github 
 
 * [Vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift web framework. https://vapor.codes
+* [Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…
