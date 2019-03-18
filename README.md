@@ -98,7 +98,7 @@
 - [Tutorials](#tutorials)
   - [Kitura Tutorial](#tutorials)
   - [TCP Server with SwiftNIO Networking](#tutorials)
-  - [](#tutorials)
+  - [Perfect-WebSocketsServer](#tutorials)
   - [](#tutorials)
   - [](#tutorials)
   - [](#tutorials)
@@ -206,6 +206,6 @@
 
 * [Kitura Tutorial](https://www.raywenderlich.com/1079484-kitura-tutorial-getting-started-with-server-side-swift) - Kitura Tutorial: Getting Started With Server-Side Swift.
 * [TCP Server with SwiftNIO Networking](https://www.raywenderlich.com/76-tcp-server-with-the-swiftnio-networking-framework) - TCP Server With the SwiftNIO Networking Framework.
-* []() - .
+* [Perfect-WebSocketsServer](https://github.com/PerfectExamples/Perfect-WebSocketsServer) - Perfect Example Module: WebSockets Server .
 * []() - .
 * []() - .
