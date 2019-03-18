@@ -98,6 +98,7 @@
 - [Tutorials](#tutorials)
   - [Kitura Tutorial](#tutorials)
   - [TCP Server with SwiftNIO Networking](#tutorials)
+  - [Vapor 3 tutorial for beginners](#tutorials)
 
 - [Samples](#samples)
   - [Perfect-WebSocketsServer](#samples)
@@ -216,6 +217,7 @@
 
 * [Kitura Tutorial](https://www.raywenderlich.com/1079484-kitura-tutorial-getting-started-with-server-side-swift) - Kitura Tutorial: Getting Started With Server-Side Swift.
 * [TCP Server with SwiftNIO Networking](https://www.raywenderlich.com/76-tcp-server-with-the-swiftnio-networking-framework) - TCP Server With the SwiftNIO Networking Framework.
+* [Vapor 3 tutorial for beginners](https://theswiftdev.com/2018/04/09/vapor-3-tutorial-for-beginners/) - Vapor 3 tutorial for beginners
 
 ## Samples
 
