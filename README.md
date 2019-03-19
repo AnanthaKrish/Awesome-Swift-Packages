@@ -1,6 +1,6 @@
 # Awesome Swift Packages
 
- A curated list of awesome swift packages, tutorials etc. 
+ A curated list of awesome swift packages, samples, tutorials etc. 
  
 ### Content
 - [JSON Parse](#json-parse)
