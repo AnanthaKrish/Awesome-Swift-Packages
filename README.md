@@ -2,7 +2,7 @@
 
 
 ## About
- A curated list of awesome swift packages. 
+ A curated list of awesome swift packages, tutorials etc. 
  
 ### Content
 - [About](#about)
