@@ -136,6 +136,10 @@
   - [Perfect](#vapor)
   - [Kitura](#vapor)
 
+- [Contributing](#contributing)
+- [License](#license)
+
+
 ## JSON Parse
 
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - SwiftyJSON makes it easy to deal with JSON data in Swift.
@@ -279,3 +283,14 @@
 * [Vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift web framework. https://vapor.codes
 * [Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…
 * [Kitura](https://github.com/IBM-Swift/Kitura) - A Swift web framework and HTTP server. http://www.kitura.io
+
+
+## Contributing
+
+* Make an individual pull request for each suggestion.
+* Use the following format: [PACKAGE](LINK) - DESCRIPTION.
+* New categories, or improvements to the existing categorization are welcome.
+* Keep descriptions short and simple, but descriptive.
+
+##  License
+* Distributed under the MIT license. See LICENSE for more information.
