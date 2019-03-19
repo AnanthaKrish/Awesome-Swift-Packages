@@ -132,9 +132,9 @@
   - [Kitura-Sample-iOS](#samples)
 
 - [Github](#github)
-  - [Vapor](#vapor)
-  - [Perfect](#vapor)
-  - [Kitura](#vapor)
+  - [Vapor](#github)
+  - [Perfect](#github)
+  - [Kitura](#github)
 
 - [Contributing](#contributing)
 - [License](#license)
