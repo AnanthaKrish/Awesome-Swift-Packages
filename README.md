@@ -3,7 +3,6 @@
  A curated list of awesome swift packages, tutorials etc. 
  
 ### Content
-- [About](#about)
 - [JSON Parse](#json-parse)
   - [SwiftyJSON](#json-parse)
   - [Freddy](#json-parse)
