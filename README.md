@@ -112,6 +112,13 @@
 - [Udacity](#udacity)
   - [Server-Side Swift](#udacity)
 
+- [YouTube](#youtube)
+  - [Server Side Swift 3 with Perfect](#youtube)
+  - [](#youtube)
+  - [](#youtube)
+  - [](#youtube)
+  - [](#youtube)
+
 - [Samples](#samples)
   - [Perfect-WebSocketsServer](#samples)
   - [Perfect-Turnstile-CouchDB-Demo](#samples)
@@ -248,6 +255,14 @@
 ## Udacity
 
 * [Server-Side Swift](https://in.udacity.com/course/server-side-swift--ud1031) - Server-Side Swift, Production-Ready Swift in the Cloud.
+
+## YouTube 
+
+* [Server Side Swift 3 with Perfect](https://www.youtube.com/watch?v=_XONAZVPUOc) - Server Side Swift 3 with Perfect: Getting Started - raywenderlich.com.
+* []() - .
+* []() - .
+* []() - .
+* []() - .
 
 ## Samples
 
