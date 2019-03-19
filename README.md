@@ -1,7 +1,5 @@
-# Awesome-Swift-Packages
+# Awesome Swift Packages
 
-
-## About
  A curated list of awesome swift packages, tutorials etc. 
  
 ### Content
