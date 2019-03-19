@@ -248,8 +248,6 @@
 ## Udacity
 
 * [Server-Side Swift](https://in.udacity.com/course/server-side-swift--ud1031) - Server-Side Swift, Production-Ready Swift in the Cloud.
-* []() - .
-* []() - .
 
 ## Samples
 
