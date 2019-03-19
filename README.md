@@ -107,8 +107,7 @@
   - [Mastering Server Side Swift Using Vapor 3](#udemy)
   - [Mastering Server Side Swift Using Kitura](#udemy)
   - [Mastering Server Side Swift Using Vapor 2](#udemy)
-  - [](#udemy)
-  - [](#udemy)
+  - [Server API Development in Swift, Kitura, & Bluemix](#udemy)
 
 - [Samples](#samples)
   - [Perfect-WebSocketsServer](#samples)
@@ -240,8 +239,8 @@
 * [Introduction to Server-Side Swift](https://www.udemy.com/introduction-to-server-side-swift/) - Introduction to Server-Side Swift.
 * [Mastering Server Side Swift Using Vapor 3](https://www.udemy.com/mastering-server-side-swift-using-vapor-3/) - Mastering Server Side Swift Using Vapor 3 by Mohammad Azam.
 * [Mastering Server Side Swift Using Kitura](https://www.udemy.com/mastering-server-side-swift-using-kitura/) - Mastering Server Side Swift Using Kitura by Mohammad Azam.
-* [Mastering Server Side Swift Using Vapor 2](https://www.udemy.com/mastering-server-side-swift-using-vapor-2/) - Mastering Server Side Swift Using Vapor 2.
-* []() - .
+* [Mastering Server Side Swift Using Vapor 2](https://www.udemy.com/mastering-server-side-swift-using-vapor-2/) - Mastering Server Side Swift Using Vapor 2 by Mohammad Azam.
+* [](https://www.udemy.com/swift-kitura/) - Server API Development in Swift, Kitura, & Bluemix.
 * []() - .
 * []() - .
 * []() - .
