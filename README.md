@@ -105,7 +105,7 @@
 - [Udemy](#udemy)
   - [Introduction to Server-Side Swift](#udemy)
   - [Mastering Server Side Swift Using Vapor 3](#udemy)
-  - [](#udemy)
+  - [Mastering Server Side Swift Using Kitura](#udemy)
   - [](#udemy)
   - [](#udemy)
   - [](#udemy)
@@ -239,7 +239,7 @@
 
 * [Introduction to Server-Side Swift](https://www.udemy.com/introduction-to-server-side-swift/) - Introduction to Server-Side Swift.
 * [Mastering Server Side Swift Using Vapor 3](https://www.udemy.com/mastering-server-side-swift-using-vapor-3/) - Mastering Server Side Swift Using Vapor 3 by Mohammad Azam.
-* []() - .
+* [Mastering Server Side Swift Using Kitura](https://www.udemy.com/mastering-server-side-swift-using-kitura/) - Mastering Server Side Swift Using Kitura by .
 * []() - .
 * []() - .
 * []() - .
