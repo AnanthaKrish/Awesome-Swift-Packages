@@ -114,7 +114,7 @@
 
 - [YouTube](#youtube)
   - [Server Side Swift 3 with Perfect](#youtube)
-  - [](#youtube)
+  - [Hello World! - Server Side with Vapor 3 using Swift 4](#youtube)
   - [](#youtube)
   - [](#youtube)
   - [](#youtube)
@@ -259,7 +259,7 @@
 ## YouTube 
 
 * [Server Side Swift 3 with Perfect](https://www.youtube.com/watch?v=_XONAZVPUOc) - Server Side Swift 3 with Perfect: Getting Started - raywenderlich.com.
-* []() - .
+* [Hello World! - Server Side with Vapor 3 using Swift 4](https://www.youtube.com/watch?v=aFUcOypcggQ) - Hello World! - Server Side with Vapor 3 using Swift 4 and Xcode 9 - raywenderlich.com.
 * []() - .
 * []() - .
 * []() - .
