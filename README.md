@@ -285,7 +285,7 @@
 ## Contributing
 
 * Make an individual pull request for each suggestion.
-* Use the following format: [PACKAGE](LINK) - DESCRIPTION.
+* Use the following format: "[PACKAGE](LINK) - DESCRIPTION".
 * New categories, or improvements to the existing categorization are welcome.
 * Keep descriptions short and simple, but descriptive.
 
